@@ -1,6 +1,6 @@
 # xamarin-cp-short-series-shared-gui3-finished
 
-Finished project of the 5th video: 
+Finished project of the 5th video: https://youtu.be/YyWvpWbjokk
 
 Extending the shared GUI with image on the button.
 
